@@ -1,0 +1,22 @@
+{
+  "name": "ecommence",
+  "version": "1.0.0",
+  "description": "MERN Stack React Node MongoDB powered E-Commerce App with PayPal and Credit Card Payment along with Admin Dashboard",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github-nadralia:nadralia/ecommence.git"
+  },
+  "keywords": [],
+  "author": "Adralia Nelson Mandela",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.9.24",
+    "nodemon": "^2.0.4"
+  }
+}
